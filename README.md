@@ -3,9 +3,10 @@
 <div align="center">
 
 ### 🚀 B.Tech Computer Science Student | Aspiring Software Engineer | AI Enthusiast
-
 *"Learning today, building tomorrow."*
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Learning+Today...;💻+Building+Tomorrow...;🤖+Creating+AI+Projects...;🌟+Future+Software+Engineer...;🔥+Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 </div>
 
 ---
